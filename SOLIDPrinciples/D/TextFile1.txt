@@ -1,0 +1,7 @@
+﻿D - dependency inversion principle
+
+that high level modules should not depend on low-level modules both should depend on abstractions
+
+the strategy of depending upon interface or abstract classes rather than upon concrete classes.  decouple 
+between modules and promote the use of interfaces or abstract classes to define the dependencies allowing for more
+flexable and testable code.

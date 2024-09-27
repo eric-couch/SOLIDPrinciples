@@ -1,0 +1,5 @@
+﻿S - Single responsibility principle.  
+
+Each class should only have one reason to change meaning.  It should only have one
+responsiblity or purpose.  This principle encourages you to create classes that more focused
+and perform a single, well-defined task rather than multiple tasks

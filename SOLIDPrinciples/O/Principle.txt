@@ -1,0 +1,5 @@
+﻿O - Open/closed principle
+
+Software entities such as classes, modules, or functions, etc. should be open for extension, 
+but closed for modifiction.  This principle promotes the idea that existing code should 
+be able to be extended with new functionality without modifying its source code.
